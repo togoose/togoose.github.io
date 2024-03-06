@@ -1,0 +1,25 @@
+@import url(logo.css);
+@import url(menu.css);
+@import url(tel.css);
+
+
+.header {
+    height: 10%;
+    width: 100%;
+    max-height: 120px;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    position: fixed;
+    
+
+    background-color: #110d2b;
+    color: white;
+}
+.pseudoheader {
+    height: 10%;
+    width: 100%;
+    max-height: 120px;
+}

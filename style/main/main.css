@@ -1,0 +1,9 @@
+@import url(preview.css);
+@import url(who.css);
+@import url(products.css);
+@import url(contacts.css);
+
+.main {
+    background-color: #211951;
+    color: #F0F3FF;
+}

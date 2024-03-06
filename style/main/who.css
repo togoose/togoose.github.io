@@ -1,0 +1,25 @@
+.who {
+    height: 90%;
+    background-color: #F0F3FF;
+    color: black;
+    display: flex;
+}
+
+.who-container {
+    padding-top: 15%;
+    padding-left: 15%;
+    width: 60%;
+}
+
+.header-who {
+    color: #211951;
+    font-family: RubicEB;
+    font-size: 56px;
+}
+.p-who {
+    font-size: 26px;
+}
+.who-img {
+    max-width: 500px;
+    width: 30%;
+}
